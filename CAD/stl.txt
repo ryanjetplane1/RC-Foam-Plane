@@ -1,0 +1,1 @@
+Individual STL files aren't included because this model is primarily used for reference. If you are looking to make some, the FBX has all the data needed.
