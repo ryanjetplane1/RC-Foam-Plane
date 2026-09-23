@@ -5,7 +5,7 @@ A fully custom low-speed RC glider hybrid with a 4ft wingspan edit
 
 ## Overview
 
-This project is a custom-designed RC airplane focused on customizability. The CAD model was fully unwrapped into flat schematics so the schematics can be printed and cut out easily.
+This project is a custom-designed RC airplane focused on customizability. The CAD model was fully unwrapped into flat schematics so the schematics can be printed and cut out easily. These parts are generic and can be controlled with any radio meant for RC.
 
 **Features**
 
