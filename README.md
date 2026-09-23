@@ -28,3 +28,6 @@ Start by printing out the schematics and using them as a stencil to cut out of A
 | 3mm Carbon Fiber Rod | For wing reinforcement | 1 | $9.99 | [Buy](http://amazon.com/gp/product/B0DGF1ZQYQ/ref=ox_sc_act_title_3?smid=A35BFBRDRD3RNK&psc=1) |
 | Adam-Ready Board | 5mm foam board ($1.25 ea) | 5 | $6.25 | [Buy](https://www.dollartree.com/readi-board-white-foam-boards/809955?storeId=1668&inStorePickupZipCode=20852-4028&preferredState=MD&alternateStore=true) |
 | **Total** | | | **$87.17** | |
+
+## Wiring Diagram
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrE9tgkx88annctgfY5vupAgOQsLU0dnIA4i-ftaklydIYlW0uJs3kxk&amp;s=10" alt="Basic Electronics setup guide for an rc plane"/>
