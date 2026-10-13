@@ -33,3 +33,6 @@ Start by printing out the schematics and using them as a stencil to cut out of A
 
 ## Wiring Diagram
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrE9tgkx88annctgfY5vupAgOQsLU0dnIA4i-ftaklydIYlW0uJs3kxk&amp;s=10" alt="Basic Electronics setup guide for an rc plane"/>
+
+## Flight Testing
+https://youtu.be/UEISuyI58ok
