@@ -42,13 +42,9 @@ Connect your servos to the ailerons and elevators using the push rod kit. Wire u
 
 ## Why it failed
 During prototyping, I had several issues with flight testing.
-<br>
 - The wings were accidentally assembled upside down because the flaps were cut incorrectly. This ruined the balance of the plane and caused it to curve right and crash repeatedly.
-<br>
 - The plane was tail-heavy at first. Finding the right center of gravity required two weeks of sanding down the wings.
-<br>
 - The vibrations from the motor ripped off the propeller during early tests.
-<br>
 - On the final flight, I lost all control in the ailerons due to the servo unplugging pre-flight. This caused the plane to dive straight into the ground.
 
 ## Failed Flight Testing
