@@ -18,7 +18,13 @@ This project is a custom-designed RC airplane focused on customizability. The CA
 
 ## How To Build
 
-Start by printing out the schematics and using them as a stencil to cut out of Adam-Ready Board foam. Since the foam is 5mm thick, double-layer it to 10mm for extra security. After cutting out the wings, insert 2 x 3mm carbon fiber rods per wing for support. Mount your X2212 motor inset and offset slightly to counter turning forces, securing it with screws, while using hot glue for the rest of the foam frame. Connect your servos to the ailerons and elevators using the push rod kit. Finally, wire up your ZTW 30A ESC and BetaFPV ELRS receiver, slide your 3S 2200mah LiPo into the slot between the wings, and attach the aluminum landing gear. 
+Start by printing out the schematics. Use them as a stencil to cut the pieces out of Adam Ready Board foam. The foam is 5mm thick so you must double layer it to 10mm for extra strength.
+
+After cutting out the wings, insert 2 3mm-thick carbon fiber rods per wing for support. The rods are 3mm thick.
+
+Mount your X2212 motor inset. Offset the motor slightly left to counter turning forces. Secure it with screws. Use hot glue for the rest of the foam frame.
+
+Connect your servos to the ailerons and elevators using the push rod kit. Wire up your ZTW 30A ESC and BetaFPV ELRS receiver. Slide your 3S 2200mah LiPo into the slot between the wings. Attach the aluminum landing gear.
 
 ## Bill of Materials
 
@@ -32,7 +38,14 @@ Start by printing out the schematics and using them as a stencil to cut out of A
 | **Total** | | | **$87.17** | |
 
 ## Wiring Diagram
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrE9tgkx88annctgfY5vupAgOQsLU0dnIA4i-ftaklydIYlW0uJs3kxk&amp;s=10" alt="Basic Electronics setup guide for an rc plane"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfrE9tgkx88annctgfY5vupAgOQsLU0dnIA4i-ftaklydIYlW0uJs3kxk&amp;s=10" alt="Basic Electronics setup guide for an rc plane"/>\
 
-## Disappointing Flight Testing
+## Why it failed
+During prototyping, I had several issues with flight testing.
+• The wings were accidentally assembled upside down because the flaps were cut incorrectly. This ruined the balance of the plane and caused it to curve right and crash repeatedly.
+• The plane was tail-heavy at first. Finding the right center of gravity required two weeks of sanding down the wings.
+• The vibrations from the motor ripped off the propeller during early tests.
+• On the final flight, I lost all control in the ailerons due to the servo unplugging pre-flight. This caused the plane to dive straight into the ground.
+
+## Failed Flight Testing
 [https://youtu.be/UEISuyI58ok](https://youtu.be/rz_R7-Amrkw)
